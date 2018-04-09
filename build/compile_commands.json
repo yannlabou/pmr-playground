@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/yannlabou/Repos/pmr-playground/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -O3 -DNDEBUG   -std=c++1z -o CMakeFiles/pmr_play.dir/src/main.cpp.o -c /Users/yannlabou/Repos/pmr-playground/src/main.cpp",
+  "file": "/Users/yannlabou/Repos/pmr-playground/src/main.cpp"
+}
+]
